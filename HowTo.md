@@ -90,8 +90,8 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 (✨Robot Slavery✨)
 ---
 
-# Steps: Now its time to start working my dear boys and girls 
-    (unless you're older than 30, then you are uncle or aunty XD). 
+# Steps: Now its time to start working my dear boys and girls  
+(unless you're older than 30, then you are uncle or aunty XD). 
 ## 🔧 Step 1: Set Up Your Bot on Discord
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications)
