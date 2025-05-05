@@ -1,2 +1,6 @@
-discord.py>=2.3.2
-requests>=2.31.0
+# Python version (not enforced by pip, but good to note)
+python>=3.10
+
+# Required packages
+discord.py
+requests
