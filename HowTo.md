@@ -151,7 +151,7 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 
     Open it, marvel at its genius, and pretend you wrote it. I won’t tell. 🤫
 
-    But if you actually want to know about the code, It basically uses [MemeAPI](https://github.com/D3vd/Meme_Api?tab=readme-ov-file) <- Check the Github Repo of the API, which returns a random [Reddit](https://www.reddit.com/r/memes/comments/cyop7a/this_is_why_reddit_is_better/) meme URL from a set of selected sub-reddits upon using the `!funnyjoke` command, here's the [URL](https://meme-api.com/gimme), refresh to see a new meme link everytime
+    But if you actually want to know about the code, It basically uses [MemeAPI](https://github.com/D3vd/Meme_Api?tab=readme-ov-file) <- Check the Github Repo of the API, which returns a random [Reddit](https://www.reddit.com/r/memes/comments/cyop7a/this_is_why_reddit_is_better/) meme URL from sub-reddits upon using the `!funnyjoke` command, here's the [URL](https://meme-api.com/gimme), refresh to see a new meme link everytime
 
 4. Now the only thing left is to run the code, right?.. right?..
     WRONG.
