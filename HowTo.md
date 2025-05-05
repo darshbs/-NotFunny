@@ -78,7 +78,7 @@ Instead of you typing in a message, your code types it for you! (✨Robot Slaver
 
 - It runs continuously (until you tell it to stop or it crashes from bad code 💥)  
 - You can run it locally, or host it on a server (like Replit, Render, or Railway)  
-- It can be simple (like ours) or grow into a monster that plays music, moderates chats, and takes over your social life
+- It can be simple (like mine) or grow into a monster that plays music, moderates chats, and takes over your social life (which I might consider expanding it)
 
 ---
 
@@ -86,8 +86,7 @@ So now that you've been blessed with this **forbidden knowledge**,
 let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 
 *Just remember: with great bots comes great meme-sponsibility.*
- 
-
+(✨Robot Slavery✨)
 ---
 
 # Steps: Now its time to start working my dear boys and girls (unless you're older than 30, then you're be uncle and aunty XD). 
@@ -108,16 +107,32 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 1. Go to the **OAuth2 → URL Generator**
 2. Select:
    - Scopes: `bot`
-   - Bot Permissions: `Send Messages`, `Read Message History`
+   - Bot Permissions: `Send Messages`, `Read Message History` (If you want your bot to read through your NSFW channels like my friend *AnimalPath*)
 3. Copy the generated URL and paste it in your browser
 4. Select your server → Authorize
+5. YAYY!!! We've invited our own bot to own server.
 
 ---
 
 ## 🧪 Step 3: Set Up Your Project
 
-1. Create a folder: `notfunny-bot`
-2. Create and activate a virtual environment *(optional but recommended)*:
+## 🧪 Step 3: Set Up Your Project
+
+1. Before you run the code, you gotta install a couple of packages —  
+   Think of them as poring milk before cereal.
+
+2. Just run this magical incantation in your terminal:
+
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+   *🪄 And just like that... with a flick of pip install, two magical packages apparated into your environment like it's Hogwarts for programmers.*
+   One talks to Discord.
+The other steals memes from the internet.
+Together?
+They fight boredom.
+
+And poof... you've got yourselves 2 fresh, spicy, API-powered packages, ready to serve mayhem in the name of memes. 😎🔥
+
+3. 
+

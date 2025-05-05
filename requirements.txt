@@ -1,6 +1,3 @@
-# Python version (not enforced by pip, but good to note)
-python>=3.10
-
 # Required packages
 discord.py
 requests
