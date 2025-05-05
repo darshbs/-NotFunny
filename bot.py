@@ -33,7 +33,7 @@ class MyClient(discord.Client):
     'hi', 'hello', 'hey', 'yo', 'sup', 'heya', 'hiya',
     'good morning', 'good afternoon', 'good evening', 'greetings',
     'wassup', 'whatsup', 'howdy', 'hola', 'salut', 'namaste', 'shalom', 'bonjour', 'konnichiwa',
-    'o7', 'hiiii', 'helloooo', 'hewwo', 'hai', 'sup bro', 'yo yo', '👋','anna namaste'] 
+    'o7', 'hiiii', 'helloooo', 'hewwo', 'hai', 'sup bro', 'yo yo', '👋','anna namaste','etlunav','etlunaav'] 
 
         # If the message is a greeting, respond with a friendly reply
         if msg in greetings:
