@@ -68,6 +68,7 @@ Instead of you typing in a message, your code types it for you! (Robot Slavery)
 4. **Message Handling**: If someone types `!funnyjoke`, your bot’s like:  
    *“Ayo, I got just the meme for you, here enjoy my guy.”*  
 5. **API Magic**: The bot fetches a meme from an API and sends it in the channel; Now WHAT THE FUNNY is an API you may ask, well...
+    
     API (Application Programming Interface) is just a fancy terminology to define how one program talks to another program. In our case, Discord's API allows us to read and send messages to its backend servers.
 6. **Repeat**: Your bot does this all day like a loyal little script
 
