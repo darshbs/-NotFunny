@@ -1,4 +1,4 @@
-# 🤖 HowTo Build the `!NotFunny` - The Meme Bot That No One Asked For
+# 🤖 HowTo Build `!NotFunny` - The Meme Bot That No One Asked For
 
 Welcome to the ultimate guide for building your own sarcastic Discord bot just like mine: **!NotFunny**.
 
