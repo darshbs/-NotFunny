@@ -113,9 +113,6 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 5. YAYY!!! We've invited our own bot to own server.
 
 ---
-
-## 🧪 Step 3: Set Up Your Project
-
 ## 🧪 Step 3: Set Up Your Project
 
 1. Before you run the code, you gotta install a couple of packages —  
@@ -127,10 +124,10 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
    pip install -r requirements.txt
    ```
    *🪄 And just like that... with a flick of pip install, two magical packages apparated into your environment like it's Hogwarts for programmers.*
-        - One talks to Discord.
-        - The other steals memes from the internet.
-        - Together?
-            They fight boredom.
+    - One talks to Discord.
+    - The other steals memes from the internet.
+    - Together?
+        They fight boredom.
 
 
 3. 
