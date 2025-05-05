@@ -97,6 +97,15 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 3. Name your app: `NotFunny`
 4. Go to **Bot** → **Add Bot** → Yes
 5. Copy your bot **TOKEN** (keep it secret!)
+    > 🧠 Wait... what’s a Bot Token?
+
+    Your bot token is like its **Discord passport**. It allows your code to *log in* as your bot.  
+    Think of it as a password — **NEVER** share it with anyone. Like... ever.  
+    Click **Reset Token** → Copy the new token 
+    ⚠️DO NOT LOSE THIS TOKEN, ONCE YOU COPY IT, YOU CAN'T SEE IT ANYMORE, ‼️SO KEEP IT SAFE‼️⚠️
+    More on when to use this token in the later part of this HowTO guide.
+
+
 6. Under **Privileged Gateway Intents**, enable:
    - `MESSAGE CONTENT INTENT`
 
@@ -138,3 +147,52 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 
     Open it, marvel at its genius, and pretend you wrote it. I won’t tell. 🤫
 
+4. Now the only thing left is to run the code, right?.. right?..
+    WRONG.
+
+    Before you smash that Run button like it's a Reddit upvote, there's one final boss to defeat:
+
+    🗝️ The Token.
+
+    Remember that ultra-secret code I told you not to leak? The one more sacred than your browser history?
+
+    Yeah, that token.
+
+    Crack open bot.py and find this line:
+    ```bash
+    55: client.run('token')
+    ```
+    Now gently, respectfully, surgically replace 'token' with your actual bot token (keep the quotes, you Animal).
+
+    Example:
+    ```bash
+    client.run('super-secret-007-token-of-chaosMKDIJANSIUDBAD-asjdbnijh2')
+    ```
+    Boom. Your bot is now armed, dangerous, and just one command away from meme domination.😎
+5. Unleash the Meme Machine:
+    Go to terminal and type 
+    ```bash 
+    py bot.py
+    ```
+    (Unless you decided to be quirky and changed the file name to `something-totally-unfindable.py` — in which case… good luck remembering it 😅)
+6. If all goes well, your terminal will whisper back:
+    ```bash
+    Logged on as !NotFunny#0000!
+    ```
+
+Congratulations. Your bot is alive, online, and ready to greet when someone says 'hi' or drop spicy memes the moment someone says '!funnyjoke'.
+
+Now go flex it in your server like the tech overlord you were born to be. 🚀🔥
+
+
+#🧾 Final Thoughts
+I spent like... 5 minutes writing the actual bot.
+And then spent the rest of my life crafting this beautiful, borderline-PhD-level HowTo.md and README.md.
+
+At this point, I half expect the bot to respond with this tutorial as a meme.
+
+But hey — if you're gonna do something, might as well overdo it with ✨style✨, right?
+
+Now go forth and flood your server with quality memes and questionable humor.
+
+Peace, love, and semicolons; (oh python doesn't use ; AHHH...) 😎✌️
