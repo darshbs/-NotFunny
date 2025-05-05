@@ -126,9 +126,15 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
    *🪄 And just like that... with a flick of pip install, two magical packages apparated into your environment like it's Hogwarts for programmers.*
     - One talks to Discord.
     - The other steals memes from the internet.
-    - Together?
-        They fight boredom.
+    - Together - They fight boredom (Not Really).
 
+3. Write the Bot Code (aka Bring It to Life, Frankenstein 🧟)
 
-3. 
+Oh, you thought you had to write code? Pfft, please.
+
+Lucky for you, I’ve already done the hard part (well I just used Hong Jeon's Code though) — the digital sorcery lives inside a file so obviously named, even your grandma could find it:
+
+👉 `bot.py`
+
+Open it, marvel at its genius, and pretend you wrote it. I won’t tell. 🤫
 
