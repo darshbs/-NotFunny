@@ -21,6 +21,7 @@ And yes — it **only** responds to greetings and memes because boundaries are i
 So buckle up, grab some snacks 🍿, and let’s build a bot that your friends won’t admit they love (they're jealous re).
 
 **Disclaimer:** Bot is not responsible for meme addictions, keyboard smashing, or accidental LOLs.
+
 ---
 
 ## 📋 Prerequisites
