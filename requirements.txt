@@ -4,3 +4,4 @@ python>=3.10
 # Required packages
 discord.py
 requests
+ 
