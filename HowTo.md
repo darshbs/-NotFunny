@@ -130,11 +130,11 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 
 3. Write the Bot Code (aka Bring It to Life, Frankenstein 🧟)
 
-Oh, you thought you had to write code? Pfft, please.
+    Oh, you thought you had to write code? Pfft, please.
 
-Lucky for you, I’ve already done the hard part (well I just used Hong Jeon's Code though) — the digital sorcery lives inside a file so obviously named, even your grandma could find it:
+    Lucky for you, I’ve already done the hard part (well I just used Hong Jeon's Code though) — the digital sorcery lives inside a file so obviously named, even your grandma could find it:
 
-👉 `bot.py`
+    👉 `bot.py`
 
-Open it, marvel at its genius, and pretend you wrote it. I won’t tell. 🤫
+    Open it, marvel at its genius, and pretend you wrote it. I won’t tell. 🤫
 
