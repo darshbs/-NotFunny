@@ -28,11 +28,11 @@ So buckle up, grab some snacks 🍿, and let’s build a bot that your friends w
 
 Make sure you have:
 
-- [Python 3.10+](https://www.python.org/downloads/) installed
+- [Python 3.10+](https://www.python.org/downloads/) installed, any version above 3.8+ works for our [requirements](https://github.com/darshbs/iNotFunny/blob/main/requirements.txt)
 - A [Discord](https://discord.com/download) account
 - [Basic knowledge](https://docs.python.org/3/tutorial/index.html) of Python (helpful but not required)
 - A Discord server to test the bot in, and a must have for you is "Manage Server" permissions. 
-- Then you're good to start. :wink (i purposefully didn't finish the wink, i dont know, just like that)
+- Then you're good to start. :wink (I purposefully didn't finish the wink, I dont know, just like that)
 
 ---
 
@@ -44,7 +44,7 @@ You wouldn’t build a nuclear toaster without reading the manual (ahh… hopefu
 
 So before we dive into crafting our meme-slinging masterpiece, let’s break it down:
 
-You can skip this and scroll down to "Steps"
+You can skip this and scroll down to "Steps" if you are **Frankenstein**.
 
 ## 🤔 What *is* a Discord Bot?
 
@@ -90,7 +90,8 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 (✨Robot Slavery✨)
 ---
 
-# Steps: Now its time to start working my dear boys and girls (unless you're older than 30, then you're be uncle and aunty XD). 
+# Steps: Now its time to start working my dear boys and girls 
+    (unless you're older than 30, then you are uncle or aunty XD). 
 ## 🔧 Step 1: Set Up Your Bot on Discord
 
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications)
@@ -98,12 +99,14 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 3. Name your app: `NotFunny`
 4. Go to **Bot** → **Add Bot** → Yes
 5. Copy your bot **TOKEN** (keep it secret!)
-    > 🧠 Wait... what’s a Bot Token?
+    🧠 **Wait... what’s a Bot Token?**
 
     Your bot token is like its **Discord passport**. It allows your code to *log in* as your bot.  
     Think of it as a password — **NEVER** share it with anyone. Like... ever.  
     Click **Reset Token** → Copy the new token 
+    
     ⚠️DO NOT LOSE THIS TOKEN, ONCE YOU COPY IT, YOU CAN'T SEE IT ANYMORE, ‼️SO KEEP IT SAFE‼️⚠️
+
     More on when to use this token in the later part of this HowTO guide.
 
 
@@ -129,7 +132,7 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
    Think of them as poring milk before cereal.
 
 2. Just run this magical incantation in your terminal:
-
+    Install dependencies from [requirements.txt](https://github.com/darshbs/iNotFunny/blob/main/requirements.txt)
    ```bash
    pip install -r requirements.txt
    ```
@@ -159,7 +162,7 @@ let’s get back to building our meme-summoning sarcasm machine: `!NotFunny`.
 
     Yeah, that token.
 
-    Crack open bot.py and find this line:
+    Crack open `bot.py` and find this line:
     ```bash
     55: client.run('token')
     ```
@@ -186,9 +189,10 @@ Congratulations. Your bot is alive, online, and ready to greet when someone says
 Now go flex it in your server like the tech overlord you were born to be. 🚀🔥
 
 
-#🧾 Final Thoughts
+# 🧾 Final Thoughts
+
 I spent like... 5 minutes writing the actual bot.
-And then spent the rest of my life crafting this beautiful, borderline-PhD-level HowTo.md and README.md.
+And then spent the rest of my life crafting this beautiful, borderline-PhD-level HowTo.md and [README.md](https://github.com/darshbs/iNotFunny/blob/main/README.md).
 
 At this point, I half expect the bot to respond with this tutorial as a meme.
 
